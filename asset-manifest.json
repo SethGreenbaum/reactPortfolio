@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/reactPortfolio/static/css/main.d3bf9d18.chunk.css",
+    "main.js": "/reactPortfolio/static/js/main.ed169038.chunk.js",
+    "main.js.map": "/reactPortfolio/static/js/main.ed169038.chunk.js.map",
+    "runtime-main.js": "/reactPortfolio/static/js/runtime-main.812acd26.js",
+    "runtime-main.js.map": "/reactPortfolio/static/js/runtime-main.812acd26.js.map",
+    "static/js/2.e2ea6681.chunk.js": "/reactPortfolio/static/js/2.e2ea6681.chunk.js",
+    "static/js/2.e2ea6681.chunk.js.map": "/reactPortfolio/static/js/2.e2ea6681.chunk.js.map",
+    "index.html": "/reactPortfolio/index.html",
+    "precache-manifest.8c18a977e316b0f2296bf718481bada8.js": "/reactPortfolio/precache-manifest.8c18a977e316b0f2296bf718481bada8.js",
+    "service-worker.js": "/reactPortfolio/service-worker.js",
+    "static/css/main.d3bf9d18.chunk.css.map": "/reactPortfolio/static/css/main.d3bf9d18.chunk.css.map",
+    "static/js/2.e2ea6681.chunk.js.LICENSE.txt": "/reactPortfolio/static/js/2.e2ea6681.chunk.js.LICENSE.txt",
+    "static/media/bio.png": "/reactPortfolio/static/media/bio.0cb8b4ad.png",
+    "static/media/style.css": "/reactPortfolio/static/media/forest.04abacbf.png",
+    "static/media/logo.2b37954f.svg": "/reactPortfolio/static/media/logo.2b37954f.svg",
+    "static/media/port1.png": "/reactPortfolio/static/media/port1.1ddf11fe.png",
+    "static/media/port2.png": "/reactPortfolio/static/media/port2.b2844da4.png",
+    "static/media/port3.png": "/reactPortfolio/static/media/port3.c78ec2e9.png",
+    "static/media/port4.png": "/reactPortfolio/static/media/port4.78b7bc23.png",
+    "static/media/port5.png": "/reactPortfolio/static/media/port5.9a5639f3.png",
+    "static/media/port6.png": "/reactPortfolio/static/media/port6.73b04ca1.png",
+    "static/media/smgresume.pdf": "/reactPortfolio/static/media/smgresume.a1a1f305.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.812acd26.js",
+    "static/js/2.e2ea6681.chunk.js",
+    "static/css/main.d3bf9d18.chunk.css",
+    "static/js/main.ed169038.chunk.js"
+  ]
+}
