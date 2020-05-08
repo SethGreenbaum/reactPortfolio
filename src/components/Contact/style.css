@@ -1,0 +1,20 @@
+body {
+    background: url('../images/forest.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    height: 100%;
+}
+.navbar-custom {
+    background-color: #222E50;
+}
+.navbar-custom .navbar-nav .nav-link {
+    color: #A3A3A3;
+    font-size: 200%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.navbar-custom .sticky-bottom {
+    background-color: #222E50;
+}
